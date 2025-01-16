@@ -4,9 +4,9 @@ This is a Resume Q&A system built using LLAMA2, HuggingFace models, and Langchai
 
 ## Features:
 
-1. Model Used: meta-llama/Llama-2-7b-chat-hf
-2. Document Embedding: sentence-transformers/all-mpnet-base-v2
-3. Query Engines: Langchain, VectorStoreIndex
+1. Model Used: `meta-llama/Llama-2-7b-chat-hf`
+2. Document Embedding: `sentence-transformers/all-mpnet-base-v2`
+3. Query Engines: `Langchain, VectorStoreIndex`
 
 ## Steps to run the code:
 1. Install `pip install torch langchain llama_index sentence-transformers`
